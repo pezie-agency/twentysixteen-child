@@ -3,4 +3,4 @@
 This is a basic child theme for twenty Sixteen
 Have fun modifying it!!!!!!!
 
-- pezie
+pezie
